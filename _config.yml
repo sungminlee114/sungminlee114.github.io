@@ -123,7 +123,7 @@ comments:
     repo_id: R_kgDOMLsS-w
     category: Announcements
     category_id: DIC_kwDOMLsS-84CgNeR
-    mapping: pathname # optional, default to 'pathname'
+    mapping: url # optional, default to 'pathname'
     strict: 1 # optional, default to '0'
     input_position: top # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`

@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: Sungmin Lee | TechBlog # the main title
 
-tagline: Archiving undiscovered tech-related tips and thoughts # it will display as the sub-title
+tagline: Archiving undiscovered tech-related experiences and insights # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Archiving undiscovered tech-related tips and thoughts.
+  Archiving undiscovered tech-related experiences and insights.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -41,7 +41,6 @@ social:
     - https://sites.google.com/view/sungminlee
     # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/sungminlee114 # change to your github homepage
-    - https://sites.google.com/view/sungminlee
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/sungmin-lee-4349aa243/
@@ -98,7 +97,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://lh3.googleusercontent.com/4KelceP5wWGTERo1UqlP6i-ucyEe2wAnQw6hxkRtKaTWNOd5gCRkRFa1tDSuzfmKkbbhH20eA0qWjAVqmMpANWSHZx7R5dT_qmcMQ5m8k0RCg5oWYUdl1lWqNcRTwfARRw=w1280"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

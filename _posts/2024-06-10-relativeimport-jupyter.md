@@ -3,7 +3,7 @@ layout: post
 title: Relative-import error when using jupyter notebook
 description: This article introduces a solution to the relative-import error when using the jupyter notebook.
 date: 2024-06-10 15:57:00 +0900
-categories: [Experiences, Debug, Test]
+categories: [Experiences, Debug, Python]
 tags: python jupyter-notebook debug
 ---
 

@@ -1,0 +1,14 @@
+services:
+  jekyll:
+    image: jekyll/jekyll
+    container_name: jekyll_container
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - "4000:4000"
+    environment:
+      TZ: "Asia/Seoul"  # timezone 설정 부분
+    entrypoint: ["bash","tools/init.sh"]
+    # command: bash tools/run.sh
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t

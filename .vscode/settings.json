@@ -23,5 +23,18 @@
   "less.validate": false,
   // Stylint extension settings
   "stylelint.snippet": ["css", "scss"],
-  "stylelint.validate": ["css", "scss"]
+  "stylelint.validate": ["css", "scss"],
+
+  "cSpell.ignorePaths": [
+    "*.html",
+    "*.vscode",
+    "*.json",
+    "*.sh",
+    "*.yml",
+  ],
+  
+
+  "cSpell.enabled": true,
+
+
 }
